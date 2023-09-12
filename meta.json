@@ -8,21 +8,22 @@
                 }
             },
             "assets": {
-                "64fa02e99e120627a20468c7": {
+                "65009be1523ae2ab94903b20": {
                     "externalStorageType": "GCS",
-                    "_id": "64fa02e99e120627a20468c7",
+                    "_id": "65009be1523ae2ab94903b20",
                     "size": "44747",
                     "mimetype": "image/png",
                     "encoding": "7bit",
                     "originalname": "logo-no-background.png",
-                    "backendURI": "/project/64fa004d9e1206e35504681e/getasset/64fa02e99e120627a20468c7",
+                    "backendURI": "/project/65009be1523ae23a79903b1e/getasset/65009be1523ae2ab94903b20",
                     "name": "logo-no-background.png",
-                    "externalName": "users/64f73fa17d2c877ce33d67cd/projects/64fa004d9e1206e35504681e/assets/64fa02e99e120627a20468c7",
+                    "externalName": "users/64f73fa17d2c877ce33d67cd/projects/65009be1523ae23a79903b1e/assets/65009be1523ae2ab94903b20",
                     "createdAt": "2023-09-07T17:05:46.146Z",
                     "updatedAt": "2023-09-07T17:05:46.146Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f73fa17d2c877ce33d67cd/projects/64fa004d9e1206e35504681e/assets/64fa02e99e120627a20468c7?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230912%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230912T143954Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=4760e1720fe3cd4deebe5c223b759786c6b6c5544ca4043100446293da2c9654f4f5175d9f81070c56bdcd7d94fa3e9a15740e51f11a9fc591155aeb15ca9190b9c45913ab5487ccedaa083d1cf279ed16bc982a1e4ded12924b27b14a0a6a347f77f0645aa5de2adb5abd5632b2827e90c46996651423bb7dd4f800693a67502c584b64e9361551f8b0a5a5e6930539f0e9970e31c56d198f533986307f1f78b33b317c285ffe4bdac179972f2d893c7af835c93b6d1c4017583b4e489bad7c407c6f7169b77a5023d925f7e6101a134a724afd7b488789ad138a3ca83b409260669e85d7a0ea50e2cc78b042d4413b5758bfed58e5479d624dc47703656bca",
-                    "signedUrlExpirationTime": 1694702394249
+                    "id": "65009be1523ae2ab94903b20",
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f73fa17d2c877ce33d67cd/projects/65009be1523ae23a79903b1e/assets/65009be1523ae2ab94903b20?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230912%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230912T171212Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=0ad2155f2f9ece3277c32147094848f3a9c045536de5c63f335a73b0025515805b3e988d1301823d92dce1d0d19f33560638b20b5a2d00f882ed361bb78bc6b2b47334b20349b14224cb385127583f91d8351d0ea1a7835a1c99ab1acbfb35daaa83e8d92fcd5ec07f1e5b4e3695e24870f776ae0f63f359ede18c7efe74972cc32a83879823d5fd49848890c3b7ff0c0157f35656902a61a4bd22c4c669a530c5d33fb9000ff314c1610ae9522e43ce516a7c99736c42a1492582beb759db90a3daf1cacc5874c16438f17553517fbd675a623419a7e83333a18458e83ef979080380c9b90f6f48ddba583f924138212b650f8d3b91aa5a41b4fa30d9a522a7",
+                    "signedUrlExpirationTime": 1694711532813
                 }
             },
             "backendUpgradeVersion": 21,
@@ -81,7 +82,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Camera App",
+            "projectName": "Camera App Modified",
             "settings": {
                 "teamId": null,
                 "appName": null,
@@ -192,7 +193,13 @@
             "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
-            "variables": {},
+            "variables": {
+                "1d8dae1b-6c02-4134-b10d-af1419146289": {
+                    "scope": "APP",
+                    "name": "confirmation",
+                    "screenId": "3c3a9fab-6e01-4338-a4ab-3c2f69a685d7"
+                }
+            },
             "defaultDesignerDevice": "PHONE",
             "defaultDesignerOrientation": "PORTRAIT",
             "schemaVersion": 2,
