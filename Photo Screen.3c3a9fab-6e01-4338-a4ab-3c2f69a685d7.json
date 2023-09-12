@@ -39,23 +39,114 @@
         "TabNavigationOptions": {
             "tabBarVisible": true
         },
-        "TabNavigatorIcon": {},
-        "DrawerNavigationOptions": {},
-        "StackNavigationOptions": {
-            "headerStyle": {}
-        },
         "ScreenOrientation": "portrait",
         "DesignerHeight": 667,
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
         "isSimple": true,
-        "navigationOptions": {
-            "headerStyle": {}
-        },
-        "tabNavigationOptions": {},
         "BackgroundColor": "rgba(34, 34, 71, 1)"
     },
     "children": [
+        {
+            "type": "Label",
+            "translatedName": "Label",
+            "reactType": "Text",
+            "properties": {
+                "Text": "Voice Confirmation",
+                "FontSize": 18,
+                "CustomFont": "",
+                "LineHeight": 1,
+                "Color": "rgba(255, 255, 255, 1)",
+                "TextAlign": "center",
+                "Height": 53,
+                "Width": 116,
+                "Visible": true,
+                "X": 3,
+                "Y": 11,
+                "RelativeX": 3,
+                "RelativeY": 11,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "color": "rgba(255, 255, 255, 1)",
+                    "fontSize": 18,
+                    "fontStyle": "normal",
+                    "textShadowOffset": {},
+                    "letterSpacing": 0,
+                    "textDecorationLine": "none",
+                    "textDecorationStyle": "solid",
+                    "textDecorationColor": "rgba(0, 0, 0, 1)",
+                    "writingDirection": "auto",
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "flexWrap": "wrap",
+                    "borderWidth": 0,
+                    "borderRadius": 0,
+                    "borderColor": "rgba(236, 237, 237, 1)",
+                    "borderStyle": "solid",
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "1.5555501302083334%",
+                    "top": "0%",
+                    "lineHeight": 1,
+                    "display": "flex",
+                    "textAlign": "center"
+                },
+                "ParentId": "3c3a9fab-6e01-4338-a4ab-3c2f69a685d7",
+                "position": "absolute",
+                "edgeOffsets": 11.999999999999998,
+                "children": "Voice Confirmation"
+            },
+            "children": [],
+            "id": "d6899103-aa89-4e0f-ad48-d74d3c728bbe",
+            "thunkableVersion": 420,
+            "name": "VoiceLabel"
+        },
+        {
+            "type": "Switch",
+            "translatedName": "Switch",
+            "reactType": "Switch",
+            "properties": {
+                "value": false,
+                "Visible": true,
+                "tintColor": "rgba(176, 176, 176, 100)",
+                "onTintColor": "rgba(208, 215, 231, 100)",
+                "thumbTintColor": "rgba(93, 122, 252, 100)",
+                "offThumbTintColor": "rgba(248, 249, 251, 100)",
+                "Height": 20,
+                "Width": 40,
+                "X": 41,
+                "Y": 61,
+                "RelativeX": 41,
+                "RelativeY": 61,
+                "ResizeMode": "STRETCH",
+                "ParentId": "3c3a9fab-6e01-4338-a4ab-3c2f69a685d7",
+                "position": "absolute",
+                "edgeOffsets": 61,
+                "style": {
+                    "position": "absolute",
+                    "left": "18.799995930989585%",
+                    "top": "7.796101949025488%",
+                    "display": "flex"
+                }
+            },
+            "children": [],
+            "id": "489b47ce-9ecd-4934-937d-c31bea45d9b6",
+            "thunkableVersion": 420,
+            "name": "VoiceSwitch"
+        },
         {
             "type": "Button",
             "translatedName": "Button",
@@ -291,7 +382,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -422,7 +512,6 @@
                     "top": "49.434660721397115%",
                     "display": "flex"
                 },
-                "capInsets": {},
                 "ParentId": "3c3a9fab-6e01-4338-a4ab-3c2f69a685d7",
                 "position": "absolute",
                 "edgeOffsets": 137
@@ -468,7 +557,6 @@
                     "top": "1.358695652173913%",
                     "display": "flex"
                 },
-                "capInsets": {},
                 "ParentId": "3c3a9fab-6e01-4338-a4ab-3c2f69a685d7",
                 "position": "absolute",
                 "edgeOffsets": 0
@@ -501,7 +589,6 @@
                     "color": "rgba(255, 255, 255, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
