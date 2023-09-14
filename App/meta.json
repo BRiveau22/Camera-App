@@ -22,8 +22,8 @@
                     "updatedAt": "2023-09-07T17:05:46.146Z",
                     "__v": 0,
                     "id": "65009be1523ae2ab94903b20",
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f73fa17d2c877ce33d67cd/projects/65009be1523ae23a79903b1e/assets/65009be1523ae2ab94903b20?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230912%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230912T171212Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=0ad2155f2f9ece3277c32147094848f3a9c045536de5c63f335a73b0025515805b3e988d1301823d92dce1d0d19f33560638b20b5a2d00f882ed361bb78bc6b2b47334b20349b14224cb385127583f91d8351d0ea1a7835a1c99ab1acbfb35daaa83e8d92fcd5ec07f1e5b4e3695e24870f776ae0f63f359ede18c7efe74972cc32a83879823d5fd49848890c3b7ff0c0157f35656902a61a4bd22c4c669a530c5d33fb9000ff314c1610ae9522e43ce516a7c99736c42a1492582beb759db90a3daf1cacc5874c16438f17553517fbd675a623419a7e83333a18458e83ef979080380c9b90f6f48ddba583f924138212b650f8d3b91aa5a41b4fa30d9a522a7",
-                    "signedUrlExpirationTime": 1694711532813
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f73fa17d2c877ce33d67cd/projects/65009be1523ae23a79903b1e/assets/65009be1523ae2ab94903b20?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230913%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230913T185117Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=15dae64ccd3bb675446906d5fd3a88a18777b46bc7c2ab24def21de4e043359fa1912e701fb69943fd4dc8d33b29e1d6eeae182a60ca407fefa42f0a16de6d0751dec29a8eaa6040f7c57a9d6c3ce1179fa1c98d65778c6c287cbe9e76e44760283dab03dbba2828144b3b97b04e309b76f08465afcced450a496ea7bca90dbfa995e192a5f68d031ebc3ea2dfacfc8818dc2fa54332903e74954e8a0218d3c55786ce6747a218eb5325744cd38ee063e9280dfaaa4d4e2420a42b481fc0e4c10255a398fd1e99076d8bfb129a8fb35b238b1dd79cad8c7345e8434999ab8eb82c8aa5e47dae086d9ecc41851ad63a22d3881f3c38e116c7df184b557b5f929d",
+                    "signedUrlExpirationTime": 1694803877105
                 }
             },
             "backendUpgradeVersion": 21,
@@ -82,7 +82,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Camera App Modified",
+            "projectName": "Camera App",
             "settings": {
                 "teamId": null,
                 "appName": null,
